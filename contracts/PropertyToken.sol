@@ -701,8 +701,8 @@ contract PropertyToken is ERC3475 {
         _classes[1]._values["issuerName"].stringValue = "propy";
         _classes[1]._values["issuerType"].stringValue = "LTD";
         _classes[1]._values["issuerJurisdiction"].stringValue = "US";
-        _classes[1]._values["issuerURL"].stringValue = "https://propy.com/home/";
-        _classes[1]._values["issuerLogo"].stringValue = "https://propy.com/home/static/media/propy-light-mode.c87a4988ad568844475e67e182195a07.svg";
+        _classes[1]._values["issuerURL"].stringValue = "https://www.zillow.com/";
+        _classes[1]._values["issuerLogo"].stringValue = "https://www.zillow.com/";
         _classes[1]._values["issuerDocURL"].stringArrayValue = [
            ""
         ];
@@ -710,7 +710,7 @@ contract PropertyToken is ERC3475 {
         _classes[1]._values["managerName"].stringValue = "Bob Smith";
         _classes[1]._values["managerType"].stringValue = "Person";
         _classes[1]._values["managerJurisdiction"].stringValue = "US";
-        _classes[1]._values["managerURL"].stringValue = "https://propy.com/agent/649b81e0a82c2e9d18c924d3";
+        _classes[1]._values["managerURL"].stringValue = "https://www.zillow.com/agent6";
         _classes[1]._values["managerLogo"].stringValue = "";
         _classes[1]._values["managerDocURL"].stringArrayValue = [
             ""
@@ -737,7 +737,7 @@ contract PropertyToken is ERC3475 {
         _classes[1]._values["fixed-rate"].boolValue = true;  
         _classes[1]._values["APR"].uintValue = 77572;  
         _classes[1]._values["ManagementFee"].uintValue = 16800;  
-        _classes[1]._values["subscribeLink"].stringValue = "https://propy.com/property/64a76218bb65af435c1d4fb0";
+        _classes[1]._values["subscribeLink"].stringValue = "https://www.zillow.com/";
         emit classCreated(address(this), 1);
    
     }

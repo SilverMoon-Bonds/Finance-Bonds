@@ -1,6 +1,7 @@
 import { ethers } from "ethers";
 import { Squid } from "@0xsquid/sdk";
 
+// Swap token from Moonbeam to Polygon
 // Environment
 // add to a file named ".env" to prevent them being uploaded to github
 import * as dotenv from "dotenv";

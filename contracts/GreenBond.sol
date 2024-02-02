@@ -1,1 +1,0 @@
-// Sample Green Bond contract

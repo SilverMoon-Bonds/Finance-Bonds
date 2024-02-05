@@ -7,3 +7,6 @@ Different types of Financial Bonds:
   4) Corporate Bonds
 
 Squid Router has been integrated to facilitate cross-chain payments during bond redemption.
+
+Bond tokens can be traded on different decentralized exchanges and marketplaces.
+
